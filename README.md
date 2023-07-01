@@ -1,2 +1,2 @@
 # Calculadora
- Calculadora - CSS,HTML,JCSCRIPT
+ Calculadora - CSS,HTML,JS
